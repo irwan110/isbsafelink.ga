@@ -1,0 +1,2 @@
+# isbsafelink.ga
+isbsafelink.ga
